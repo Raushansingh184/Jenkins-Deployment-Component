@@ -7,7 +7,7 @@
 
 @isTest(SeeAllData=true)
 private class RunTestSchedulerTest {
-    @isTest
+    @isTest 
     private static void testPositiveScenario(){
         //dta changes
         Test.startTest();
