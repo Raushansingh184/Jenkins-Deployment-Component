@@ -4,7 +4,7 @@
  *	@Desc			: This is a helper class referenced from RunTestScheduler Class & RunTestSendEmailScheduler Class 	
 */
 
-public class RunTestUtil {
+public class RunTestUtil { 
 /* 	@Author 		: Nitin Patil 
  * 	@CreatedDate 	: 5th June 2020 
  *	@Version		: 1.0
